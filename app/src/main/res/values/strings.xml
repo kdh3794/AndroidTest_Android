@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_activity_algorithm_list">AlgorithmListActivity</string>
+    <string name="title_activity_find_multiple">FindMultipleActivity</string>
+    <string name="title_activity_make_start">MakeStartActivity</string>
 </resources>

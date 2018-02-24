@@ -16,7 +16,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".AlgorithmListActivity"
+            android:label="@string/title_activity_algorithm_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FindMultipleActivity"
+            android:label="@string/title_activity_find_multiple"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MakeStartActivity"
+            android:label="@string/title_activity_make_start"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
